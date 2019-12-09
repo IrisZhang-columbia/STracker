@@ -1,4 +1,3 @@
-import IPython
 from django.http import HttpResponseNotAllowed, HttpResponse, HttpResponseRedirect, HttpResponseBadRequest
 from django.shortcuts import render, get_object_or_404
 
