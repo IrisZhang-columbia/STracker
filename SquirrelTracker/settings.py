@@ -25,7 +25,7 @@ SECRET_KEY = 'r50)$-lf5d-6d$ya@ymke3*ppkt-5*$$64+44@r1$#tn7wqg3*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tools-for-analytics-254021.appspot.com']
 
 
 # Application definition
