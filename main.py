@@ -1,3 +1,3 @@
-from mysite.wsgi import application
+from SquirrelTracker.wsgi import application
 
 app = application
